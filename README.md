@@ -1,1 +1,5 @@
 ## Instructions
+
+## Collaborators
+Eric
+Jamie
